@@ -4,8 +4,9 @@ Este repositório mantém os trabalhos da disciplina de Reinforced Learning do p
 
 Trabalhos:
 1. [Agente que transporta objeto à base](#trabalho-1)
-1. ?
 
 # Trabalho 1
 
 Conforme [ementa](enunciado_trabalho_I_v2.pdf).
+
+[Jupyter Notebook](trabalho1.ipynb).
