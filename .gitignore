@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+swig*
+Roms
+dqn_lunar*
+rl-baselines3-zoo
