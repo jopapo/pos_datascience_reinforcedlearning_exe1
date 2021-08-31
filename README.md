@@ -10,3 +10,7 @@ Trabalhos:
 Conforme [ementa](enunciado_trabalho_I_v2.pdf).
 
 [Jupyter Notebook](trabalho1.ipynb).
+
+# Trabalho 2
+
+Ementa no início do [Jupyter Notebook](atividade_pratica_ii.ipynb).
